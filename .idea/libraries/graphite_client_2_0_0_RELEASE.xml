@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="graphite-client-2.0.0-RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib2/graphite-client-2.0.0-RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/jackson-core-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/jackson-databind-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/slf4j-api-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
