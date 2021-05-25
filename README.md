@@ -10,7 +10,7 @@ Napisać aplikację, udostępniającą GUI, w którym po podanu miasta i nazwy k
         W p. 4 użyć klasy WebEngine z JavaFX dla wbudowania przeglądarki w aplikację Swingową.
 
 
-# Program winien zawierać klasę Service z konstruktorem Service(String kraj) i metodami::
+## Program winien zawierać klasę Service z konstruktorem Service(String kraj) i metodami::
 
         •String getWeather(String miasto) - zwraca informację o pogodzie w podanym mieście danego kraju w formacie JSON (to ma być pełna informacja uzyskana z serwisu openweather          - po prostu tekst w formacie JSON),
         •Double getRateFor(String kod_waluty) - zwraca kurs waluty danego kraju wobec waluty podanej jako argument,
